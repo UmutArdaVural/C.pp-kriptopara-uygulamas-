@@ -1,0 +1,17 @@
+﻿  Kaynak.cpp
+C:\Users\umuta\source\repos\Ödev 2\Kaynak.cpp(226,19): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\umuta\source\repos\Ödev 2\Kaynak.cpp(393,37): warning C4244: '=': '_Rep' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\umuta\source\repos\Ödev 2\Kaynak.cpp(393,37): warning C4244:         with
+C:\Users\umuta\source\repos\Ödev 2\Kaynak.cpp(393,37): warning C4244:         [
+C:\Users\umuta\source\repos\Ödev 2\Kaynak.cpp(393,37): warning C4244:             _Rep=double
+C:\Users\umuta\source\repos\Ödev 2\Kaynak.cpp(393,37): warning C4244:         ]
+C:\Users\umuta\source\repos\Ödev 2\Kaynak.cpp(399,37): warning C4244: '=': '_Rep' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\umuta\source\repos\Ödev 2\Kaynak.cpp(399,37): warning C4244:         with
+C:\Users\umuta\source\repos\Ödev 2\Kaynak.cpp(399,37): warning C4244:         [
+C:\Users\umuta\source\repos\Ödev 2\Kaynak.cpp(399,37): warning C4244:             _Rep=double
+C:\Users\umuta\source\repos\Ödev 2\Kaynak.cpp(399,37): warning C4244:         ]
+C:\Users\umuta\source\repos\Ödev 2\Kaynak.cpp(401,33): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\umuta\source\repos\Ödev 2\Kaynak.cpp(429,9): warning C4101: 'şeçim': yerel değişken başvurusu kaldırıldı
+C:\Users\umuta\source\repos\Ödev 2\Kaynak.cpp(434,9): warning C4101: 'sayaçtarihişlemleri1': yerel değişken başvurusu kaldırıldı
+C:\Users\umuta\source\repos\Ödev 2\Kaynak.cpp(427,9): warning C4101: 'hesaonumarasıal': yerel değişken başvurusu kaldırıldı
+  Ödev 2.vcxproj -> C:\Users\umuta\source\repos\Ödev 2\x64\Debug\Ödev 2.exe
